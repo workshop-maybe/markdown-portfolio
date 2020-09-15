@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Games
+  * Uno Flip
+  * Gobblet
+* People
+  * Margaret
+  * Gabe
+  * Betty
+* Bands
+  * Young Man Winter
