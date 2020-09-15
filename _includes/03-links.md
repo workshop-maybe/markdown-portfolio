@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[Workshop Maybe](http://workshopmaybe.com)
+[Workshop Maybe's GitHub](https://github.com/workshop-maybe)
